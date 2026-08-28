@@ -8,9 +8,9 @@ import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
 import { AdminDashboard } from './components/AdminDashboard';
 import { LoadingScreen } from './components/LoadingScreen';
+import { AIChatbot } from './components/AIChatbot';
 import medicinesData from './data/medicines.json';
-import { MessageCircle, ArrowUp } from 'lucide-react';
-import { WHATSAPP_PHONE_NUMBER } from './data/categories';
+import { ArrowUp } from 'lucide-react';
 import { fetchMedicinesFromDatabase } from './lib/supabase';
 
 export default function App() {
@@ -115,22 +115,20 @@ export default function App() {
 
         <Footer />
 
-        {/* Floating action buttons */}
-        <div className="fixed bottom-6 right-6 z-40 flex items-center gap-3">
+        {/* Scroll to top button */}
+        <div className="fixed bottom-6 left-6 z-40">
           <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="p-3 rounded-full bg-white/80 hover:bg-white border border-[#0E5284]/20 text-[#0E5284] shadow-[0_4px_16px_rgba(14,82,132,0.15)] backdrop-blur-md transition-all cursor-pointer hover:scale-110"
             title="Scroll to top">
             <ArrowUp className="w-4 h-4" />
           </button>
-          <a href={`https://wa.me/${WHATSAPP_PHONE_NUMBER}?text=${encodeURIComponent('Hello Medisect Pharma Team, I am inquiring from your website. Please connect me with a representative.')}`}
-            target="_blank" rel="noopener noreferrer"
-            className="btn-green flex items-center gap-2.5 px-5 py-3 rounded-full font-bold text-sm shadow-[0_8px_24px_rgba(15,117,58,0.4)] hover:scale-105 transition-transform cursor-pointer">
-            <MessageCircle className="w-5 h-5 fill-current" />
-            <span className="hidden sm:inline">WhatsApp Inquiry</span>
-          </a>
         </div>
+
+        {/* Customized AI Chatbot Floating Assistant Widget */}
+        <AIChatbot />
       </div>
     </div>
   );
 }
+
 
