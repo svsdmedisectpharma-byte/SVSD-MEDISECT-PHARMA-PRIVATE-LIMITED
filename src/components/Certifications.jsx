@@ -61,26 +61,7 @@ export const Certifications = () => {
         ))}
       </div>
 
-      {/* Bottom banner */}
-      <div className="mt-10 p-6 rounded-3xl glass-panel-deep flex flex-col md:flex-row items-center justify-between gap-6 relative z-10">
-        <div className="flex items-center gap-4">
-          <div className="w-12 h-12 rounded-2xl bg-[#E8F1F8] border border-[#0E5284]/20 flex items-center justify-center text-[#0E5284] shrink-0">
-            <Microscope className="w-6 h-6" />
-          </div>
-          <div>
-            <h4 className="font-display text-sm sm:text-base font-bold text-[#0E5284]">
-              Zero-Defect Analytical Testing & HPLC Verification
-            </h4>
-            <p className="text-xs text-[#5A7A91] mt-0.5">
-              Assay quantification, dissolution kinetics, and microbial limit testing on 100% of finished batches.
-            </p>
-          </div>
-        </div>
-        <a href="#contact"
-          className="btn-outline-blue px-5 py-2.5 rounded-xl text-xs font-bold whitespace-nowrap cursor-pointer">
-          Request Certificate of Analysis (COA)
-        </a>
-      </div>
     </section>
   );
 };
+
