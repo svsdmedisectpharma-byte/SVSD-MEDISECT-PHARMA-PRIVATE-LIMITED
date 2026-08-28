@@ -1,0 +1,337 @@
+[
+  {
+    "id": "med-01",
+    "name": "MEDICLAV-625 LB",
+    "generic_name": "Amoxycillin & Potassium Clavulanate with Lactic Acid Bacillus Tablets IP",
+    "category": "Antibiotics",
+    "therapeutic_area": "Anti-Infectives",
+    "dosage_form": "Tablet",
+    "composition": "Amoxycillin Trihydrate IP eq. to Amoxycillin 500mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125mg + Lactic Acid Bacillus 60 Million Spores",
+    "packaging": "10 x 1 x 10 Alu-Alu Pack",
+    "description": "Broad-spectrum beta-lactamase resistant penicillin combined with prebiotic gut flora protector for deep systemic respiratory and ENT bacterial eradication.",
+    "indications": [
+      "Upper & Lower Respiratory Tract Infections",
+      "Acute Bacterial Sinusitis & Otitis Media",
+      "Skin & Soft Tissue Infections",
+      "Post-Surgical Prophylaxis"
+    ],
+    "storage": "Store in a cool, dry place below 25°C. Protect from moisture & light.",
+    "badge": "WHO-GMP Certified",
+    "accent_color": "cyan",
+    "prescription_required": true
+  },
+  {
+    "id": "med-02",
+    "name": "PANTASECT-DSR",
+    "generic_name": "Pantoprazole Gastro-Resistant & Domperidone Prolonged-Release Capsules IP",
+    "category": "Tablets",
+    "therapeutic_area": "Gastrointestinal",
+    "dosage_form": "Capsule",
+    "composition": "Pantoprazole Sodium IP eq. to Pantoprazole 40mg (As Enteric Coated Pellets) + Domperidone IP 30mg (As Sustained Release Pellets)",
+    "packaging": "10 x 10 Alu-Alu Blister",
+    "description": "Advanced dual-release proton pump inhibitor with potent prokinetic agent for rapid relief from hyperacidity, GERD, and nausea.",
+    "indications": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Refractory Peptic & Duodenal Ulcers",
+      "Dyspepsia & Acid-Induced Heartburn",
+      "NSAID-Induced Gastritis"
+    ],
+    "storage": "Store below 30°C in a dry place. Protect from heat and direct sunlight.",
+    "badge": "Top Prescribed",
+    "accent_color": "blue",
+    "prescription_required": true
+  },
+  {
+    "id": "med-03",
+    "name": "SECTOFENAC-SP",
+    "generic_name": "Aceclofenac, Paracetamol & Serratiopeptidase Tablets",
+    "category": "Tablets",
+    "therapeutic_area": "Pain & Inflammation",
+    "dosage_form": "Tablet",
+    "composition": "Aceclofenac IP 100mg + Paracetamol IP 325mg + Serratiopeptidase IP 15mg (30,000 Serratiopeptidase Units)",
+    "packaging": "10 x 10 Blister Pack with Anti-counterfeit Hologram",
+    "description": "Triple-action synergistic analgesic, antipyretic, and proteolytic enzyme formulation for rapid resolution of severe musculoskeletal pain and edema.",
+    "indications": [
+      "Rheumatoid Arthritis & Osteoarthritis",
+      "Post-Traumatic & Post-Operative Edema",
+      "Spondylitis & Musculoskeletal Spasms",
+      "Dental Pain & Maxillary Inflammation"
+    ],
+    "storage": "Store protected from light & moisture at a temperature not exceeding 25°C.",
+    "badge": "Fast Relief",
+    "accent_color": "violet",
+    "prescription_required": true
+  },
+  {
+    "id": "med-04",
+    "name": "CEFTRICARE-1G",
+    "generic_name": "Ceftriaxone for Injection IP 1000mg with Sterile Water",
+    "category": "Injections",
+    "therapeutic_area": "Critical Care & Antibiotics",
+    "dosage_form": "Injection",
+    "composition": "Each vial contains: Sterile Ceftriaxone Sodium IP eq. to Anhydrous Ceftriaxone 1000mg (Supplied with 10ml Sterile Water for Injections)",
+    "packaging": "10ml Glass Vial + Tray with SWFI Ampoule",
+    "description": "Third-generation cephalosporin injectable providing high tissue penetration for severe hospital-acquired and systemic bacterial infections.",
+    "indications": [
+      "Severe Sepsis & Septicemia",
+      "Bacterial Meningitis",
+      "Intra-abdominal & Pelvic Infections",
+      "Nosocomial Pneumonia"
+    ],
+    "storage": "Store below 25°C. Reconstituted solution should be used immediately.",
+    "badge": "Hospital Grade",
+    "accent_color": "emerald",
+    "prescription_required": true
+  },
+  {
+    "id": "med-05",
+    "name": "COUGHSECT-LS",
+    "generic_name": "Levosalbutamol, Ambroxol HCl & Guaiphenesin Expectorant Syrup",
+    "category": "Syrups",
+    "therapeutic_area": "Respiratory Care",
+    "dosage_form": "Syrup / Suspension",
+    "composition": "Each 5ml contains: Levosalbutamol Sulphate IP eq. to Levosalbutamol 1mg + Ambroxol Hydrochloride IP 30mg + Guaiphenesin IP 50mg (In a flavored syrupy base)",
+    "packaging": "100ml Amber PET Bottle with calibrated measuring cup",
+    "description": "Triple-action bronchodilator, mucolytic, and expectorant syrup for deep clearing of productive chest congestion and asthmatic cough.",
+    "indications": [
+      "Productive Cough & Acute Bronchitis",
+      "Chronic Obstructive Pulmonary Disease (COPD)",
+      "Bronchial Asthma with Mucus Plugs",
+      "Tracheobronchitis"
+    ],
+    "storage": "Keep bottle tightly closed. Store below 25°C in a cool dark place.",
+    "badge": "Sugar Free Base",
+    "accent_color": "amber",
+    "prescription_required": true
+  },
+  {
+    "id": "med-06",
+    "name": "DERMASECT-PLUS",
+    "generic_name": "Clobetasol Propionate, Neomycin Sulphate & Miconazole Nitrate Cream",
+    "category": "Ointments",
+    "therapeutic_area": "Dermatology",
+    "dosage_form": "Ointment / Cream",
+    "composition": "Clobetasol Propionate IP 0.05% w/w + Neomycin Sulphate IP eq. to Neomycin Base 0.5% w/w + Miconazole Nitrate IP 2.0% w/w + Chlorocresol IP (Preservative) 0.1% w/w",
+    "packaging": "15g Multi-layer Lami Tube with safety seal",
+    "description": "Comprehensive broad-spectrum dermatological cream combining high-potency corticosteroid with antibacterial and antifungal bio-actives.",
+    "indications": [
+      "Mixed Bacterial and Fungal Dermatitis",
+      "Recalcitrant Eczema & Psoriasis",
+      "Tinea Cruris, Tinea Corporis & Ringworm",
+      "Contact Dermatitis with Secondary Infection"
+    ],
+    "storage": "Store in a cool place, do not freeze. Keep the cap tightly closed after use.",
+    "badge": "Dermatologist Tested",
+    "accent_color": "cyan",
+    "prescription_required": true
+  },
+  {
+    "id": "med-07",
+    "name": "TELMISECT-40 AM",
+    "generic_name": "Telmisartan & Amlodipine Tablets IP",
+    "category": "Tablets",
+    "therapeutic_area": "Cardiovascular",
+    "dosage_form": "Tablet",
+    "composition": "Telmisartan IP 40mg + Amlodipine Besylate IP eq. to Amlodipine 5mg",
+    "packaging": "10 x 14 Alu-Alu Strip Pack",
+    "description": "Dual-action Angiotensin Receptor Blocker (ARB) and Calcium Channel Blocker (CCB) offering 24-hour round-the-clock blood pressure control.",
+    "indications": [
+      "Essential Systemic Hypertension",
+      "Uncontrolled Blood Pressure on Monotherapy",
+      "Cardiovascular Risk Reduction in Hypertensive Patients",
+      "End-organ Renal Protection"
+    ],
+    "storage": "Store protected from moisture at a temperature below 25°C.",
+    "badge": "24hr Control",
+    "accent_color": "blue",
+    "prescription_required": true
+  },
+  {
+    "id": "med-08",
+    "name": "NEUROSECT-PLUS",
+    "generic_name": "Methylcobalamin, Alpha Lipoic Acid, Pyridoxine & Folic Acid Capsules",
+    "category": "Nutraceuticals",
+    "therapeutic_area": "Vitamins & Supplements",
+    "dosage_form": "Capsule",
+    "composition": "Methylcobalamin 1500mcg + Alpha Lipoic Acid USP 100mg + Pyridoxine HCl IP 3mg + Folic Acid IP 1.5mg + Benfotiamine 50mg",
+    "packaging": "10 x 1 x 10 Mono Carton Alu-Alu",
+    "description": "High-potency neuro-regenerative formula designed to repair myelin sheath damage, reduce oxidative stress, and alleviate neuropathic pain.",
+    "indications": [
+      "Diabetic Peripheral Neuropathy",
+      "Sciatica & Lumbar Radiculopathy",
+      "Post-Herpetic Neuralgia",
+      "Chronic Fatigue & Megaloblastic Anemia"
+    ],
+    "storage": "Store in a cool, dry place. Protect from heat, light & moisture.",
+    "badge": "Active Bio-B12",
+    "accent_color": "violet",
+    "prescription_required": false
+  },
+  {
+    "id": "med-09",
+    "name": "AZISECT-500",
+    "generic_name": "Azithromycin Tablets IP 500mg",
+    "category": "Antibiotics",
+    "therapeutic_area": "Anti-Infectives",
+    "dosage_form": "Tablet",
+    "composition": "Each film-coated tablet contains: Azithromycin Dihydrate IP eq. to Anhydrous Azithromycin 500mg",
+    "packaging": "3 x 10 Blister Pack (Course Pack)",
+    "description": "Potent azalide macrolide antibiotic with high intracellular accumulation for convenient once-daily bacterial infection regimens.",
+    "indications": [
+      "Community-Acquired Pneumonia",
+      "Pharyngitis, Tonsillitis & Sinusitis",
+      "Skin & Soft Tissue Infections",
+      "Sexually Transmitted Genital Ulcer Disease"
+    ],
+    "storage": "Store at room temperature not exceeding 30°C. Protect from moisture.",
+    "badge": "Once Daily Dose",
+    "accent_color": "cyan",
+    "prescription_required": true
+  },
+  {
+    "id": "med-10",
+    "name": "GLYCOSECT-M2 FORTE",
+    "generic_name": "Glimepiride & Metformin Hydrochloride Prolonged-Release Tablets IP",
+    "category": "Tablets",
+    "therapeutic_area": "Anti-Diabetic",
+    "dosage_form": "Tablet",
+    "composition": "Glimepiride IP 2mg + Metformin Hydrochloride IP 1000mg (In Prolonged Release Form)",
+    "packaging": "10 x 10 Blister Pack with UV security line",
+    "description": "Fixed-dose combination of second-generation sulfonylurea and sustained-release biguanide for rigorous glycemic management in Type 2 Diabetes.",
+    "indications": [
+      "Type 2 Diabetes Mellitus with High HbA1c",
+      "Glycemic Control uncontrolled by Metformin alone",
+      "Insulin-resistant Metabolic Syndrome"
+    ],
+    "storage": "Store protected from light and moisture at temperature below 25°C.",
+    "badge": "Metabolic Care",
+    "accent_color": "emerald",
+    "prescription_required": true
+  },
+  {
+    "id": "med-11",
+    "name": "PIPERASECT-4.5G",
+    "generic_name": "Piperacillin & Tazobactam Injection IP 4.5g",
+    "category": "Injections",
+    "therapeutic_area": "Critical Care & Antibiotics",
+    "dosage_form": "Injection",
+    "composition": "Each vial contains: Sterile Piperacillin Sodium IP eq. to Piperacillin 4000mg + Sterile Tazobactam Sodium eq. to Tazobactam 500mg",
+    "packaging": "20ml USP Type-I Molded Glass Vial with Sterile Water",
+    "description": "Ultra broad-spectrum injectable antibacterial powerhouse combining extended-spectrum ureidopenicillin with beta-lactamase inhibitor.",
+    "indications": [
+      "Severe Nosocomial & Ventilator-Associated Pneumonia",
+      "Complicated Intra-abdominal Infections & Peritonitis",
+      "Febrile Neutropenia & Bacteremia",
+      "Complicated Skin and Diabetic Foot Ulcerations"
+    ],
+    "storage": "Store below 25°C. Keep out of reach of children.",
+    "badge": "ICU Gold Standard",
+    "accent_color": "violet",
+    "prescription_required": true
+  },
+  {
+    "id": "med-12",
+    "name": "MONTESECT-LC",
+    "generic_name": "Montelukast Sodium & Levocetirizine Dihydrochloride Tablets IP",
+    "category": "Tablets",
+    "therapeutic_area": "Respiratory Care",
+    "dosage_form": "Tablet",
+    "composition": "Montelukast Sodium IP eq. to Montelukast 10mg + Levocetirizine Dihydrochloride IP 5mg",
+    "packaging": "10 x 10 Alu-Alu Strip",
+    "description": "Non-sedating antihistamine and leukotriene receptor antagonist dual therapy for comprehensive 24-hour relief from chronic allergies and rhinitis.",
+    "indications": [
+      "Allergic Rhinitis (Seasonal & Perennial)",
+      "Allergic Bronchial Asthma & Wheezing",
+      "Chronic Idiopathic Urticaria",
+      "Ocular Allergy & Hay Fever"
+    ],
+    "storage": "Store protected from moisture and light at temperature not exceeding 30°C.",
+    "badge": "Non-Drowsy",
+    "accent_color": "blue",
+    "prescription_required": true
+  },
+  {
+    "id": "med-13",
+    "name": "CALCISECT-D3 MAX",
+    "generic_name": "Calcium Carbonate, Calcitriol, Zinc & Vitamin K2-7 Softgel Capsules",
+    "category": "Nutraceuticals",
+    "therapeutic_area": "Vitamins & Supplements",
+    "dosage_form": "Softgel",
+    "composition": "Calcium Carbonate IP eq. to Elemental Calcium 500mg + Calcitriol IP 0.25mcg + Vitamin K2-7 45mcg + Zinc Sulphate Monohydrate eq. to Zinc 7.5mg",
+    "packaging": "10 x 1 x 10 Blister in Premium Embossed Carton",
+    "description": "Next-generation bone density restorative with bio-active Vitamin K2-7 ensuring precise calcium deposition in bones while preventing arterial calcification.",
+    "indications": [
+      "Post-Menopausal Osteoporosis & Osteopenia",
+      "Senile Bone Fragility & Fracture Healing",
+      "Hypocalcemia & Renal Osteodystrophy",
+      "Pregnancy & Lactation Calcium Supplementation"
+    ],
+    "storage": "Store in a cool, dry place below 25°C. Protect from direct heat and light.",
+    "badge": "With Vit K2-7",
+    "accent_color": "amber",
+    "prescription_required": false
+  },
+  {
+    "id": "med-14",
+    "name": "VOMISET-MD 4",
+    "generic_name": "Ondansetron Orally Disintegrating Tablets IP 4mg",
+    "category": "Tablets",
+    "therapeutic_area": "Gastrointestinal",
+    "dosage_form": "Tablet",
+    "composition": "Each uncoated orally disintegrating tablet contains: Ondansetron IP 4mg (Melt-in-mouth formulation)",
+    "packaging": "10 x 10 Alu-Alu Fast-Melt Strip",
+    "description": "Selective 5-HT3 receptor antagonist fast-dissolve tablet providing rapid control over nausea and vomiting without the need for water ingestion.",
+    "indications": [
+      "Chemotherapy & Radiotherapy-Induced Emesis",
+      "Post-Operative Nausea & Vomiting (PONV)",
+      "Acute Gastroenteritis with Severe Emesis",
+      "Pregnancy Hyperemesis (Under Supervision)"
+    ],
+    "storage": "Store protected from moisture and light below 30°C.",
+    "badge": "Fast Melt-in-Mouth",
+    "accent_color": "cyan",
+    "prescription_required": true
+  },
+  {
+    "id": "med-15",
+    "name": "SECTOGEL-NANO",
+    "generic_name": "Diclofenac Diethylamine, Virgin Linseed Oil, Methyl Salicylate & Menthol Gel",
+    "category": "Ointments",
+    "therapeutic_area": "Pain & Inflammation",
+    "dosage_form": "Ointment / Cream",
+    "composition": "Diclofenac Diethylamine IP 1.16% w/w (eq. to Diclofenac Sodium 1.0% w/w) + Virgin Linseed Oil BP 3.0% w/w + Methyl Salicylate IP 10.0% w/w + Menthol IP 5.0% w/w + Benzyl Alcohol IP 1.0% w/w",
+    "packaging": "30g Seamless Laminated Tube with Flip Top Cap",
+    "description": "Nanotechnology-powered deep penetrating topical transdermal gel for immediate cooling sensation and sustained anti-inflammatory joint relief.",
+    "indications": [
+      "Acute Musculoskeletal Sprains & Strains",
+      "Cervical Spondylosis & Frozen Shoulder",
+      "Low Back Pain & Sciatica Tenderness",
+      "Sports Injuries & Tendonitis"
+    ],
+    "storage": "Keep tube tightly closed. Store at room temperature not exceeding 25°C.",
+    "badge": "Nano-Absorption",
+    "accent_color": "emerald",
+    "prescription_required": false
+  },
+  {
+    "id": "med-16",
+    "name": "HEPASECT-SYRUP",
+    "generic_name": "Silymarin with B-Complex & L-Ornithine L-Aspartate Liver Tonic",
+    "category": "Syrups",
+    "therapeutic_area": "Gastrointestinal",
+    "dosage_form": "Syrup / Suspension",
+    "composition": "Silymarin Extract (80%) 70mg + L-Ornithine L-Aspartate 150mg + Tricholine Citrate 250mg + Thiamine HCl 2.5mg + Riboflavin 2.5mg + Pyridoxine HCl 1.5mg + Niacinamide 25mg per 10ml",
+    "packaging": "200ml High-Density Glass Bottle in Outer Box",
+    "description": "Potent hepatoprotective and liver detox tonic promoting hepatocyte regeneration, bile synthesis, and protection against toxin-induced hepatic stress.",
+    "indications": [
+      "Fatty Liver Disease (NAFLD/AFLD)",
+      "Drug-Induced Hepatotoxicity",
+      "Chronic Hepatitis & Jaundice Recovery",
+      "Anorexia & Sluggish Liver Metabolism"
+    ],
+    "storage": "Shake well before use. Store in a cool, dry and dark place.",
+    "badge": "Herbal-Pharma Blend",
+    "accent_color": "amber",
+    "prescription_required": false
+  }
+]
