@@ -16,8 +16,8 @@ export const QuickInquiryCTA = ({ medicines }) => {
   };
 
   const benefits = [
-    'Instant PDF Visual Aids',
-    'Monopoly Rights Check',
+    'Instant Formulation Info',
+    'WHO-GMP Quality Check',
     'Zero-Delay Dispatch',
     'Competitive Net Pricing',
   ];

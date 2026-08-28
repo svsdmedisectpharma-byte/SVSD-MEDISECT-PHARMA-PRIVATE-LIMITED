@@ -1,12 +1,7 @@
 import React from 'react';
-import { Handshake, Building2, Truck, FlaskConical, Boxes } from 'lucide-react';
+import { Building2, Truck, FlaskConical, Boxes } from 'lucide-react';
 
 const features = [
-  {
-    title: 'PCD Pharma Franchise Solutions',
-    desc: 'Monopoly marketing rights with comprehensive visual aids, MR bags, doctor reminder cards, and product literature support across all districts.',
-    icon: Handshake, badge: 'Monopoly Rights', iconBg: 'bg-[#E8F1F8] border-[#0E5284]/20', iconColor: '#0E5284'
-  },
   {
     title: 'Third-Party Contract Manufacturing',
     desc: 'High-speed automated blister, alu-alu, liquid filling, and sterile vial lines capable of fulfilling massive commercial volume orders.',
@@ -39,12 +34,12 @@ export const RnDInnovation = () => {
           Empowering Healthcare Distribution
         </h2>
         <p className="text-[#5A7A91] text-sm sm:text-base">
-          Accelerate your pharmaceutical business with our turnkey PCD Franchise model and contract manufacturing capabilities.
+          Accelerate your pharmaceutical business with our contract manufacturing and supply capabilities.
         </p>
         <div className="mt-4 w-16 mx-auto accent-line" />
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {features.map((item, i) => {
           const Icon = item.icon;
           return (
@@ -76,3 +71,4 @@ export const RnDInnovation = () => {
     </section>
   );
 };
+
