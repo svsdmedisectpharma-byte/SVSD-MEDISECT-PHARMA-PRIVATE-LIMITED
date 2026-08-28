@@ -59,7 +59,7 @@ export const ContactSection = () => {
             <h3 className="font-display text-xl font-bold text-[#0E5284]">Corporate Headquarters</h3>
             <div className="space-y-4 text-sm">
               {[
-                { icon: MapPin, label: 'Registered Address', value: 'Plot No. 482, Industrial Area Phase 1, Panchkula / Chandigarh, India – 134113', color: '#0E5284', bg: 'bg-[#E8F1F8] border-[#0E5284]/15' },
+                { icon: MapPin, label: 'Registered Address', value: 'Saibaba Complex, Goregaon East, Mumbai, Maharashtra – 400063', color: '#0E5284', bg: 'bg-[#E8F1F8] border-[#0E5284]/15' },
                 { icon: Phone, label: 'Sales & WhatsApp Hotline', value: '+91 75874 32458', color: '#0F753A', bg: 'bg-[#E8F5EE] border-[#0F753A]/15', link: 'tel:+917587432458' },
                 { icon: Mail, label: 'Official Email', value: OFFICIAL_EMAIL, color: '#0E5284', bg: 'bg-[#E8F1F8] border-[#0E5284]/15', link: `mailto:${OFFICIAL_EMAIL}` },
               ].map((item, i) => {
